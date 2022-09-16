@@ -5,6 +5,8 @@ export default () => {
   return (
     <div>
       <hr />
+      Multifronted App!
+      <hr />
       <MarketingApp />
     </div>
   );
