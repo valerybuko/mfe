@@ -4,11 +4,9 @@ import MarketingApp from './components/MarketingApp';
 export default () => {
   return (
     <div>
-      <hr />
-      Multifronted App!
+      <h1 style={{ textAlign: 'center' }}>Multifrontend App!</h1>
       <hr />
       <MarketingApp />
-      <hr />
     </div>
   );
 };
