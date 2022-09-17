@@ -8,6 +8,7 @@ export default () => {
       Multifronted App!
       <hr />
       <MarketingApp />
+      <hr />
     </div>
   );
 };
