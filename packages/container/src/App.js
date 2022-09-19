@@ -14,6 +14,7 @@ const generateClassName = createGenerateClassName({
   productionPrefix: 'co',
 });
 
+// create own browser history
 const history = createBrowserHistory();
 
 export default () => {
